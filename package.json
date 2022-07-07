@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/derpyuwu/derpyuwu-js-footer#readme",
   "dependencies": {
-    "moment": "^2.25.3"
+    "moment": "^2.29.4"
   }
 }
